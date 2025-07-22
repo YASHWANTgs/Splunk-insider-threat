@@ -1,0 +1,7 @@
+2025-07-18 10:02:10 user=alice action=access file=payroll.csv
+2025-07-18 10:03:12 user=alice action=upload file=payroll.csv dest=usb
+2025-07-18 10:04:55 user=alice action=email file=payroll.csv to=external@email.com
+2025-07-18 10:05:10 user=bob action=view file=payroll.csv
+2025-07-18 10:06:00 user=carol action=delete file=payroll.csv
+2025-07-18 10:06:45 user=bob action=access file=budget_2025.xlsx
+2025-07-18 10:07:12 user=david action=print file=payroll.csv
